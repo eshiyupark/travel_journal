@@ -40,10 +40,37 @@ body {
   justify-content: center;
 }
 
-.card--image {
+.card {
+  margin: 20px 0;
+  display: flex;
+  max-width: 800px;
+  background-color: rgb(206, 254, 232);
+}
 
+.card--image {
+  width: 180px;
+  height: 230px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card--image img {
+  height: 230px;
+  object-fit: cover;
 }
 
 .card--content {
-  
+
+}
+
+.card--content--location {
+  display: flex;
+}
+
+.card--content--location img {
+  height: 30px;
+}
+
+.card--content--title {
+
 }
