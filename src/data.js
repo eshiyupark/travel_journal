@@ -1,5 +1,6 @@
 export default [
   {
+    id: 1,
     title: "Tokyo",
     location: "Japan",
     googleMapsUrl: "https://maps.app.goo.gl/hokYmZsTYcWbkhdX7",
@@ -9,6 +10,7 @@ export default [
     imageUrl: "https://lp-cms-production.imgix.net/2020-11/shutterstockRF_257639824.jpg?auto=format&w=1440&h=810&fit=crop&q=75"
   },
   {
+    id: 2,
     title: "Taipei City",
     location: "Taiwan",
     googleMapsUrl: "https://maps.app.goo.gl/kpZxS3ag5nQBstA68",
@@ -18,6 +20,7 @@ export default [
     imageUrl: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/16/09/taipei-overview.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp"
   },
   {
+    id: 3,
     title: "Hong Kong",
     location: "Hong Kong",
     googleMapsUrl: "https://maps.app.goo.gl/X54vs9jb232iDF2y9",
@@ -27,6 +30,7 @@ export default [
     imageUrl: "https://www.discoverhongkong.com/content/dam/dhk/intl/explore/attractions/best-ways-to-marvel-at-iconic-victoria-harbour/best-ways-to-marvel-at-iconic-victoria-harbour-1920x1080.jpg"
   },
   {
+    id: 4,
     title: "Koh Tao",
     location: "Thailand",
     googleMapsUrl: "https://maps.app.goo.gl/LSdzugreGPUCmjcn6",
@@ -36,6 +40,7 @@ export default [
     imageUrl: "https://a.cdn-hotels.com/gdcs/production148/d51/200ef146-c064-4e16-b05d-ab17a443cf3e.jpg?impolicy=fcrop&w=800&h=533&q=medium"
   },
   {
+    id: 5,
     title: "Bangkok",
     location: "Thailand",
     googleMapsUrl: "https://maps.app.goo.gl/hAESMAevQvLHohw78",
