@@ -38,15 +38,17 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-top: 10px;
 }
 
 .card {
-  margin: 20px 0;
+  margin: 10px 0;
   display: flex;
   max-width: 800px;
   background-color: rgb(206, 254, 232);
   border-radius: 10px;
   padding: 10px;
+  box-shadow: rgba(170, 170, 170, 0.421) 0 0 9px 4px;
 }
 
 .card--image {
@@ -68,20 +70,37 @@ body {
 
 .card--content--location {
   display: flex;
+  align-items: center;
+  margin-top: 7px;
 }
 
 .card--content--location img {
-  height: 30px;
+  height: 20px;
+}
+
+.card--content--location p {
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  margin: 0 10px 0 3px;
+}
+
+.card--content--location a {
+  font-size: 0.7rem;
+  text-decoration: none;
+  color: gray;
 }
 
 .card--content--title {
-
+  font-size: 1.6rem;
+  margin: 8px 0 31px 0;
+  letter-spacing: 0.1rem;
 }
 
 .card--content--date {
-
+  font-weight: bold;
+  margin: 0 0 4px 0;
 }
 
 .card--content-description {
-
+  margin: 0;
 }

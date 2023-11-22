@@ -16,7 +16,7 @@ export default [
     googleMapsUrl: "https://maps.app.goo.gl/kpZxS3ag5nQBstA68",
     startDate: "29 September 2023",
     endDate: "06 October 2023",
-    description: "Taipei, the capital of Taiwan, is a modern metropolis with Japanese colonial lanes, busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top.",
+    description: "Taipei, the capital of Taiwan, is a modern metropolis with Japanese colonial lanes, busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base.",
     imageUrl: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/16/09/taipei-overview.jpg?quality=75&width=990&crop=3%3A2%2Csmart&auto=webp"
   },
   {
@@ -48,5 +48,15 @@ export default [
     endDate: "09 September 2023",
     description: "Bangkok, Thailand's capital, is a large city known for ornate shrines and vibrant street life. The boat-filled Chao Phraya River feeds its network of canals, flowing past the Rattanakosin royal district, home to opulent Grand Palace and its sacred Wat Phra Kaew Temple.",
     imageUrl: "https://a.cdn-hotels.com/gdcs/production172/d459/3af9262b-3d8b-40c6-b61d-e37ae1aa90aa.jpg"
+  },
+  {
+    id: 6,
+    title: "London",
+    location: "United Kingdom",
+    googleMapsUrl: "https://maps.app.goo.gl/1beJkceBLPf878mn6",
+    startDate: "24 August 2023",
+    endDate: "01 September 2023", 
+    description: "London, the capital of England and the United Kingdom, is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations.",
+    imageUrl: "https://assets.editorial.aetnd.com/uploads/2019/03/topic-london-gettyimages-760251843-feature.jpg"
   }
 ]
